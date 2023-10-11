@@ -10,7 +10,7 @@ This VHDL project implements the RSA encryption and decryption algorithm for FPG
 
 ## Features
 
-- FPGA-based implementation of the RSA encryption algorithm.
+- FPGA-based implementation of the RSA encryption and decryption algorithm.
 - Easy-to-use VHDL code.
 - Generates public and private keys for secure communication.
 
